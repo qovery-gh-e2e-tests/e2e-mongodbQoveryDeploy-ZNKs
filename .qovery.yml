@@ -1,0 +1,8 @@
+application:
+  name: httpbin
+  project: mongodbQoveryDeploy36z4Q4L6
+  organization: QoveryTest
+databases:
+- type: mongodb
+  version: 4
+  name: e2e-mongodb
